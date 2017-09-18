@@ -14,7 +14,7 @@
 .toc li .list-group-item.active, 
 .toc li .list-group-item.active:focus, 
 .toc li .list-group-item.active:hover {
-  background-color: #e7e7e7;
-	border-color: #bdbdbd;
+  background-color: #e7e7e7 !important;
+	border-color: #bdbdbd !important;
 }
 
